@@ -1,0 +1,22 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "App that generates flashcards and tells user if their answer is correct",
+  "main": "basicCards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JPannewitz/HW_Flashcard_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JPannewitz/HW_Flashcard_Generator/issues"
+  },
+  "homepage": "https://github.com/JPannewitz/HW_Flashcard_Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6"
+  }
+}
